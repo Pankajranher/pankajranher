@@ -26,7 +26,7 @@ I have practical experience using **Python, SQL, Power BI, Microsoft Excel**, an
 ### 🛠 Skills
 **HTML5 | CSS | JavaScript | React | Python | SQL | Django | Power BI | Excel | Data Analysis | Data Visualization | Machine Learning | Deep learning | Artificial Intelligence |**
 
-## 🌐 Connect With Me
+🌐 **Connect**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
