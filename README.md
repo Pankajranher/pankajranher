@@ -29,7 +29,7 @@ I have practical experience using **Python, SQL, Power BI, Microsoft Excel**, an
 🌐 **Connect**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/pankaj-ranher" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
   </a>
   <a href="mailto:pankajranher@gmail.com">
