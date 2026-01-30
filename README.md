@@ -41,6 +41,7 @@ I have practical experience using **Python, SQL, Power BI, Microsoft Excel**, an
 </p>
 
 
+
 ### 🚀 Open To
 **Entry-Level Data Analyst | Python Developer | BI Roles**
 
