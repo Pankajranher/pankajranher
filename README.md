@@ -35,9 +35,6 @@ I have practical experience using **Python, SQL, Power BI, Microsoft Excel**, an
   <a href="mailto:pankajranher@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
   </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
-  </a>
 </p>
 
 
