@@ -24,7 +24,22 @@ I have practical experience using **Python, SQL, Power BI, Microsoft Excel**, an
 - Web application development using **Django & MySQL**
 
 ### 🛠 Skills
-**HTML5 | CSS | JavaScript | React | Python | SQL | Power BI | Data Analysis | Machine Learning | Django | MySQL | Excel**
+**HTML5 | CSS | JavaScript | React | Python | SQL | Django | Power BI | Excel | Data Analysis | Data Visualization | Machine Learning | Deep learning | Artificial Intelligence |**
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+  </a>
+  <a href="mailto:pankajranher@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github"/>
+  </a>
+</p>
+
 
 ### 🚀 Open To
 **Entry-Level Data Analyst | Python Developer | BI Roles**
