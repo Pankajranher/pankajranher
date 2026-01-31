@@ -40,7 +40,7 @@ I have practical experience using **Python, SQL, Power BI, Microsoft Excel**, an
 
 
 ### 🚀 Open To
-**Entry-Level Data Analyst | Python Developer | BI Roles**
+**Entry-Level Data Analyst | Entry-Level Data Scientist | Python Developer | BI Roles**
 
 <!--
 **Pankajranher/pankajranher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
