@@ -31,7 +31,7 @@ I have practical experience using **Python, SQL, Power BI, Microsoft Excel**, an
 <p align="left">
   <a href="https://www.linkedin.com/in/pankaj-ranher" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
-  </a>
+  </a> 
   <a href="mailto:pankajranher@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"/>
   </a>
